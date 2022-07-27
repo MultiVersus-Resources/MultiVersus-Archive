@@ -9,7 +9,6 @@ Array0x: Discord - Enderman#2022 | Twitter: @enderman_dev
 | Closed Alpha - May 19, 2022 |
 |------------------------------|
 | Open Beta V0 - July 19, 2022 |
-|------------------------------|
 
 
 # Patch Notes
