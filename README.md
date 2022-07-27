@@ -7,7 +7,6 @@ Array0x: Discord - Enderman#2022 | Twitter: @enderman_dev
 
 # Versions Missing 
 
-|------------------------------|
 | Closed Alpha - May 19, 2022 |
 |------------------------------|
 
