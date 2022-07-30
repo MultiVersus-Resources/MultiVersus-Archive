@@ -35,3 +35,5 @@ https://multiversus.bugs.wbgames.com/patch-notes
 | Build                  	 | Date          	 | Engine Version	    |		    Link             |		    Installed on             |     
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | V0.1        	 |  July 26, 2022	   	 | UE4.26	    |		https://rebrand.ly/93fqhg5                                   |             Steam
+| V0.1 Steam Patch        	 |  July 29, 2022	   	 | UE4.26	    |		https://rebrand.ly/93fqhg5                                   |             Steam
+
