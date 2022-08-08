@@ -27,9 +27,9 @@ https://multiversus.bugs.wbgames.com/patch-notes
 # Downloads
 
 # MultiVersus Blueprint UE4 Project
-| Link | Found In |
-|------|----------|
-| https://rebrand.ly/l96k6xq | https://discord.gg/qrXseHYG |
+| Link | Found In | Made By | 
+|------|----------|---------|
+| https://rebrand.ly/l96k6xq | https://discord.gg/qrXseHYG | WistfulHopes (Aeryn) |
 
 # Open Beta
 | Build                  	 | Date          	 | Engine Version	    |		    Link             |		    Installed on             |     
