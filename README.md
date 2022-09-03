@@ -36,5 +36,5 @@ https://multiversus.bugs.wbgames.com/patch-notes
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | V0.1        	 |  July 26, 2022	   	 | UE4.26	    |		https://rebrand.ly/93fqhg5                                   |             Steam
 | V0.1 Steam Patch        	 |  July 29, 2022	   	 | UE4.26	    |		https://rebrand.ly/iswwfl4                                   |             Steam
-| V1.0           | Aug 15, 2022 | UE4.26 | https://rebrand.ly/9a7840 | Steam
-
+| V1.0 (Season 1 Patch) | Aug 15, 2022 | UE4.26 | https://rebrand.ly/9a7840 | Steam
+| Season 1 v1.0 | September 2, 2022 | UE4.26 | ---- 
